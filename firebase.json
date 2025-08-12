@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "love-memo",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
