@@ -1,0 +1,12 @@
+{
+  "name": "love-memo-static",
+  "version": "1.0.0",
+  "description": "Static site for LoveMemo",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^14.0.1"
+  }
+}
